@@ -1,4 +1,10 @@
-## Hi there 👋
+## Jaden Shelton
+## Computer Science Student | Networks and Security Concentration
+My name is Jaden, I'm currently a junior pursuing a Bachelor of Science in Computer Science with a concentration in Cybersecurity and a Minor in Mathematics at Colorado State University.
+
+- 🌆 I'm currently working on a Image Clustering application, that takes in a set of images and groups them into clusters based on simiilarity measures.
+- 🌱 Currently I'm learning about essential cybersecurity concepts, including cryptography, user authentication, database security, and intrusion detection, with hands-on projects in ethical hacking and defensive programming.
+- 📫 You can reach me at jadenshelton17@icloud.com
 
 <!--
 **JadenShelton/JadenShelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
