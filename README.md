@@ -1,6 +1,6 @@
 ## Jaden Shelton
 ## Computer Science Student | Networks and Security Concentration
-My name is Jaden, I'm currently a junior pursuing a Bachelor of Science in Computer Science with a concentration in Cybersecurity and a Minor in Mathematics at Colorado State University.
+My name is Jaden, I'm currently a junior pursuing a Bachelor of Science in Computer Science with a concentration in Networks and Security, and a Minor in Mathematics at Colorado State University.
 
 - Right now I'm working on enhancing a mobile, single page application and restful API service over a semester-long, team-based Agile software engineering project.
 - Currently I'm also learning about essential cybersecurity concepts, including cryptography, user authentication, database security, and intrusion detection, with hands-on projects in ethical hacking and defensive programming.
