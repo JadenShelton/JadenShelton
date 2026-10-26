@@ -1,10 +1,9 @@
 ## Jaden Shelton
-## Computer Science Student | Networks and Security Concentration
-My name is Jaden, I'm currently a junior pursuing a Bachelor of Science in Computer Science with a concentration in Networks and Security, and a Minor in Mathematics at Colorado State University.
+## Computer Science | Networks and Security Concentration
+My name is Jaden, I graduated from CSU with a Bachelors in Computer Science concentrating in Networks and Security, and Minoring in Mathematics.
 
-- Right now I'm working on enhancing a mobile, single page application and restful API service over a semester-long, team-based Agile software engineering project.
-- Currently I'm also learning about essential cybersecurity concepts, including cryptography, user authentication, database security, and intrusion detection, with hands-on projects in ethical hacking and defensive programming.
-- 📫 You can reach me at jadenshelton17@icloud.com
+- Right now I'm working towards an OSCP certification to further my foundation in security. 
+- I'm also learning how to develop and build AI workflows that make the creation of software more efficient and safe.
 
 <!--
 **JadenShelton/JadenShelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
